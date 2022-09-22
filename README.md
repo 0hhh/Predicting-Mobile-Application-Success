@@ -13,9 +13,11 @@ iv. Size: Size of the app
 v. Installs: Number of user installs
 vi. Type: Paid or Free
 vii. Price: Price of the app
-viii. Content Rating: Age group the app is targeted at - Children / Mature 21+ / \
-
-Adult ix. Genres: multiple genres (For eg, a game can belong to Music, Game, Family genres. x. Last Updated: Date when the app was last updated xi. Current Ver: Current version of the app available on Play Store xii. Android Ver: Min required Android version
+viii. Content Rating: Age group the app is targeted at - Children / Mature 21+ /Adult 
+ix. Genres: multiple genres (For eg, a game can belong to Music, Game, Family genres. )
+x. Last Updated: Date when the app was last updated 
+xi. Current Ver: Current version of the app available on Play Store 
+xii. Android Ver: Min required Android version
 Dependent variable: user rating of the app
 
 
